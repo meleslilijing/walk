@@ -40,7 +40,7 @@ function exec(root) {
 	return {
 		type: 'root',
 		name: root,
-		chileren: children
+		children: children
 	}
 }
 
