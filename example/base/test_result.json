@@ -1,0 +1,62 @@
+{
+	"type": "root",
+	"name": "/Users/lilijing/Documents/workspace/walk",
+	"chileren": [
+		{
+			"type": "directory",
+			"name": "/Users/lilijing/Documents/workspace/walk/test",
+			"children": [
+				{
+					"type": "file",
+					"name": "/Users/lilijing/Documents/workspace/walk/test/foo.js"
+				}
+			]
+		}, 
+		{
+			"type": "file",
+			"name": "/Users/lilijing/Documents/workspace/walk/test.js"
+		}, 
+		{
+			"type": "directory",
+			"name": "/Users/lilijing/Documents/workspace/walk/test1",
+			"children": [
+				{
+					"type": "file",
+					"name": "/Users/lilijing/Documents/workspace/walk/test1/hehe.js"
+				}
+			]
+		}, 
+		{
+			"type": "file",
+			"name": "/Users/lilijing/Documents/workspace/walk/test_result.json"
+		}, 
+		{
+			"type": "directory",
+			"name": "/Users/lilijing/Documents/workspace/walk/test副本",
+			"children": [
+				{
+					"type": "file",
+					"name": "/Users/lilijing/Documents/workspace/walk/test副本/.DS_Store"
+				}, 
+				{
+					"type": "file",
+					"name": "/Users/lilijing/Documents/workspace/walk/test副本/bar.js"
+				}, 
+				{
+					"type": "directory",
+					"name": "/Users/lilijing/Documents/workspace/walk/test副本/foo",
+					"children": [
+					{
+						"type": "file",
+						"name": "/Users/lilijing/Documents/workspace/walk/test副本/foo/foo.js"
+					}
+					]
+				}
+			]
+		}, 
+		{
+			"type": "file",
+			"name": "/Users/lilijing/Documents/workspace/walk/walk.js"
+		}
+	]
+}
